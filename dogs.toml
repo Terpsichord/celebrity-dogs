@@ -1,0 +1,41 @@
+[[dogs]]
+name = "Annie the Afghan Hound"
+exercise = 4
+intelligence = 15
+friendliness = 6
+drool = 1
+
+[[dogs]]
+name = "Bertie the Boxer"
+exercise = 5
+intelligence = 60
+friendliness = 9
+drool = 3
+
+[[dogs]]
+name = "Betty the Borzoi"
+exercise = 3
+intelligence = 25
+friendliness = 6
+drool = 2
+
+[[dogs]]
+name = "Charlie the Chihuahua"
+exercise = 2
+intelligence = 30
+friendliness = 2
+drool = 1
+
+[[dogs]]
+name = "Chaz the Cocker Spaniel"
+exercise = 3
+intelligence = 90
+friendliness = 9
+drool = 4
+
+[[dogs]]
+name = "Donald the Dalmatian"
+exercise = 5
+intelligence = 65
+friendliness = 7
+drool = 3
